@@ -1,11 +1,11 @@
 {
   "name": "yimi_etable",
   "version": "1.0.0",
-  "author": "ymi1111",
+  "author": "0x00five",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fengtwo0/yimi_cpp.git"
+    "url": "https://github.com/0x00five/yimi_etable.git"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
